@@ -1,5 +1,7 @@
 # CS52Demo
 
+Thanks for listening! If you have any questions about this code, please email me at nathan.eidelson@gmail.com :)
+
 ## Instructions to get set up
 
 Set up Xcode
