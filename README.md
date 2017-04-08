@@ -1,5 +1,7 @@
 # CS52Demo
 
+## Instructions to get set up
+
 Set up Xcode
 
 1. Install CocoaPods: 
