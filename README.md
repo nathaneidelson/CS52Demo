@@ -25,7 +25,7 @@ target ‘<Target of your project>' do
     pod 'Alamofire', '~> 4.2.0’ 
 end 
 ```
-
+    1. Make sure to actually fill in <Target of your project>
 3. Type `pod install` to install the AFNetworking pod 
 4. Close the Xcode project, and open the newly created Xcode workspace
 5. Start coding!
