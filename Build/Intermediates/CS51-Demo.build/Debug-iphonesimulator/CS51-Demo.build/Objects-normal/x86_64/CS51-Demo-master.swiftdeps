@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "af36947b9dac906909a7d6887e15890d"
+build_time: [545004995, 197995000]
+inputs:
+  "/Users/nathaneidelson/Developer/CS51-Demo/CS51-Demo/Models/PhotoLog.swift": [545004995, 0]
+  "/Users/nathaneidelson/Developer/CS51-Demo/CS51-Demo/NEPhotoLogDetailViewController.swift": [545004876, 0]
+  "/Users/nathaneidelson/Developer/CS51-Demo/CS51-Demo/AppDelegate.swift": [544814541, 0]
+  "/Users/nathaneidelson/Developer/CS51-Demo/CS51-Demo/NEPhotoLogTableViewController.swift": [545004902, 0]

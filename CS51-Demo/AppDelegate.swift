@@ -10,9 +10,12 @@ import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
+    // NE: This is typically where you initialize app-wide modules, things such as Parse, Stripe or Google Analytics.
+    // It is also where log-in and log-out redirects are typically handled, via instantiating the appropriate view 
+    // controller and setting self.window.rootViewController. 
+    // See http://stackoverflow.com/questions/19962276/best-practices-for-storyboard-login-screen-handling-clearing-of-data-upon-logou
+    
     var window: UIWindow?
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
