@@ -1,5 +1,7 @@
 # CS52Demo
 
+Here is the entire Photo journal demo! In class we only went through the basics of the `NEPhotoLogTableViewController`, and rushed through the `PhotoLog` model. I recommend viewing the `NEPhotoLogDetailViewController` as an example of how to make a view that can both display *and* collect data. Also, take a close look at the storyboard and how it uses constraints to properly layout the `NEPhotoLogDetailViewController`.
+
 If you have *any* questions please do not hesitate to email me at nathan.eidelson@gmail.com
 
 I realize that I messed up the naming of the project (using CS51 instead of CS52) but am far too lazy to fix it.
