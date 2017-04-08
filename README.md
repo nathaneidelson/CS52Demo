@@ -1,19 +1,19 @@
 # CS52Demo
 
-Thanks for listening! If you have *any* questions please do not hesitate to email me at nathan.eidelson@gmail.com
+If you have *any* questions please do not hesitate to email me at nathan.eidelson@gmail.com
 
 ## Instructions to get set up with this project
 
-1. Clone the entire repro (I normally would use `git clone https://github.com/nathaneidelson/CS52Demo.git` from terminal) 
-2. Open the worksapce, and build + run the proejct.
+1. Clone the entire repro (I normally use `git clone https://github.com/nathaneidelson/CS52Demo.git` from terminal) 
+2. Open the workspace, and build + run the proejct.
 
 ## Instructions to get set up your own project
 
-Set up Xcode
-
 1. Install CocoaPods using: 
     1. `sudo gem install cocoapods`
-2. Navigate to project directory and create a file ‘Podfile’ containing: 
+    2. If you don't have ruby (and thus `gem`) installed, you'll have to do that first.
+2. Create a new Xcode project
+2. Navigate to project directory and create a file named `Podfile` containing: 
 
 ```
 platform :ios, '10.0’ 
