@@ -2,6 +2,8 @@
 
 If you have *any* questions please do not hesitate to email me at nathan.eidelson@gmail.com
 
+I realize that I messed up the naming of the project (using CS51 instead of CS52) but am far too lazy to fix it.
+
 ## Instructions to get set up with this project
 
 1. Clone the entire repro (I normally use `git clone https://github.com/nathaneidelson/CS52Demo.git` from terminal) 
