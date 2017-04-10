@@ -11,6 +11,8 @@ I realize that I messed up the naming of the project (using CS51 instead of CS52
 1. Clone the entire repro (I normally use `git clone https://github.com/nathaneidelson/CS52Demo.git` from terminal) 
 2. Open the workspace, and build + run the proejct.
 
+To see the Airtable that this uses, use this link: https://airtable.com/invite/l?inviteId=invxyS0PwocucIGQw&inviteToken=16475f07c177dbfe67aca0c639a8924d
+
 ## Instructions to get set up your own project
 
 1. Install CocoaPods using: 
